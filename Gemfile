@@ -64,3 +64,7 @@ gem 'enum_help'
 gem 'pry-byebug', group: :development
 
 gem 'bootstrap5-kaminari-views', '~> 0.0.1'
+
+gem 'rails-i18n', '~> 6.0'
+
+gem 'devise-i18n'
